@@ -1,0 +1,14 @@
+admin/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+_minted-main/
+*.vrb
+*.so
+*.o
