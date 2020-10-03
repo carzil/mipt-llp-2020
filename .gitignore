@@ -12,3 +12,4 @@ _minted-main/
 *.vrb
 *.so
 *.o
+*.bin
