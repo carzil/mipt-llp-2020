@@ -12,5 +12,5 @@
 ## Домашки
 [Таблица с результатами проверки](https://docs.google.com/spreadsheets/d/1tDgeBU_0SD3NwJuVoMTtTXoJDOhOyrBzFuRffL-yLjc/edit?usp=sharing)
 
-* [Домашка #1](step1/README.md)
-* [Домашка #2](step2/README.md), дедлайн: **1 ноября, 23:59**.
+* [Домашка #1](steps/step1.md)
+* [Домашка #2](steps/step2.md), дедлайн: **1 ноября, 23:59**.
