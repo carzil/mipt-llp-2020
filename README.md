@@ -8,6 +8,7 @@
 * [xv6](https://github.com/mit-pdos/xv6-public)
 * [Dirty COW and why lying is bad even if you are the Linux kernel](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
 * [Latches inside: Reverse-engineering the Intel 8086's instruction register](http://www.righto.com/2020/08/latches-inside-reverse-engineering.html)
+* [Evolution of the x86 context switch in Linux](http://www.maizure.org/projects/evolution_x86_context_switch_linux/)
 
 ## Домашки
 [Таблица с результатами проверки](https://docs.google.com/spreadsheets/d/1tDgeBU_0SD3NwJuVoMTtTXoJDOhOyrBzFuRffL-yLjc/edit?usp=sharing)
